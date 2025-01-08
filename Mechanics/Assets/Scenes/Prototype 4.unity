@@ -733,6 +733,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+  hasPowerup: 0
 --- !u!1001 &5621251414728447939
 PrefabInstance:
   m_ObjectHideFlags: 0
